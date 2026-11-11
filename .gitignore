@@ -1,0 +1,46 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# AWS credentials and secrets
+.aws/
+credentials
+credentials.txt
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secret*
+*credentials*
+
+# Large datasets
+data/
+*.parquet
+*.csv
+*.pcap
+*.pcapng
+
+# SageMaker binary artifacts
+*.tar.gz
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Generated packages
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

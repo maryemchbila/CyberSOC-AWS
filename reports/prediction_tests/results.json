@@ -1,0 +1,2452 @@
+{
+  "accuracy": 0.9928571428571429,
+  "sample_count": 140,
+  "samples_per_class": 20,
+  "results": [
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999862,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999862,
+        "DoS": 2.7e-05,
+        "DDoS": 1.7e-05,
+        "PortScan": 1.7e-05,
+        "BruteForce": 1.9e-05,
+        "Bot": 3.9e-05,
+        "WebAttack": 1.7e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999621,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999621,
+        "DoS": 8.9e-05,
+        "DDoS": 0.000142,
+        "PortScan": 5e-05,
+        "BruteForce": 3.1e-05,
+        "Bot": 3.6e-05,
+        "WebAttack": 3.1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999934,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999934,
+        "DoS": 1.5e-05,
+        "DDoS": 1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.9997,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.9997,
+        "DoS": 2.9e-05,
+        "DDoS": 3.3e-05,
+        "PortScan": 2.8e-05,
+        "BruteForce": 2.8e-05,
+        "Bot": 0.000154,
+        "WebAttack": 2.8e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999919,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999919,
+        "DoS": 1.6e-05,
+        "DDoS": 1.4e-05,
+        "PortScan": 1.3e-05,
+        "BruteForce": 1.3e-05,
+        "Bot": 1.2e-05,
+        "WebAttack": 1.3e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999324,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999324,
+        "DoS": 0.000134,
+        "DDoS": 6.5e-05,
+        "PortScan": 6.4e-05,
+        "BruteForce": 6.4e-05,
+        "Bot": 0.000284,
+        "WebAttack": 6.5e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.6e-05,
+        "DDoS": 1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1.1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1.1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.99591,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.99591,
+        "DoS": 0.001382,
+        "DDoS": 0.000277,
+        "PortScan": 0.001239,
+        "BruteForce": 0.000289,
+        "Bot": 0.000275,
+        "WebAttack": 0.000627
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999933,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999933,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999917,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999917,
+        "DoS": 1.6e-05,
+        "DDoS": 1.4e-05,
+        "PortScan": 1.4e-05,
+        "BruteForce": 1.3e-05,
+        "Bot": 1.3e-05,
+        "WebAttack": 1.3e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999697,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999697,
+        "DoS": 0.000112,
+        "DDoS": 6.1e-05,
+        "PortScan": 3.2e-05,
+        "BruteForce": 3.3e-05,
+        "Bot": 3.2e-05,
+        "WebAttack": 3.2e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999749,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999749,
+        "DoS": 5.7e-05,
+        "DDoS": 3.7e-05,
+        "PortScan": 4.3e-05,
+        "BruteForce": 3.9e-05,
+        "Bot": 3.7e-05,
+        "WebAttack": 3.9e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999932,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999932,
+        "DoS": 1.6e-05,
+        "DDoS": 1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1.1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1.1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999931,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999931,
+        "DoS": 1.7e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999931,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999931,
+        "DoS": 1.7e-05,
+        "DDoS": 1e-05,
+        "PortScan": 1e-05,
+        "BruteForce": 1.1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "BENIGN",
+      "original_label": "BENIGN",
+      "predicted": "BENIGN",
+      "correct": true,
+      "confidence": 0.999822,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.999822,
+        "DoS": 4.4e-05,
+        "DDoS": 2.6e-05,
+        "PortScan": 2.8e-05,
+        "BruteForce": 2.7e-05,
+        "Bot": 2.6e-05,
+        "WebAttack": 2.7e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.99989,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 2.1e-05,
+        "DoS": 0.99989,
+        "DDoS": 2.1e-05,
+        "PortScan": 1.7e-05,
+        "BruteForce": 1.7e-05,
+        "Bot": 1.7e-05,
+        "WebAttack": 1.8e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS GoldenEye",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.997683,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.002166,
+        "DoS": 0.997683,
+        "DDoS": 3.9e-05,
+        "PortScan": 4e-05,
+        "BruteForce": 2.3e-05,
+        "Bot": 2.2e-05,
+        "WebAttack": 2.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999862,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 3.3e-05,
+        "DoS": 0.999862,
+        "DDoS": 1.7e-05,
+        "PortScan": 1.7e-05,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.7e-05,
+        "WebAttack": 3.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999901,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 1.9e-05,
+        "DoS": 0.999901,
+        "DDoS": 1.9e-05,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS slowloris",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.968378,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.030095,
+        "DoS": 0.968378,
+        "DDoS": 0.000264,
+        "PortScan": 0.00041,
+        "BruteForce": 0.000266,
+        "Bot": 0.000258,
+        "WebAttack": 0.000329
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999902,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 1.8e-05,
+        "DoS": 0.999902,
+        "DDoS": 1.9e-05,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.7e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS GoldenEye",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999584,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00012,
+        "DoS": 0.999584,
+        "DDoS": 4.8e-05,
+        "PortScan": 4.8e-05,
+        "BruteForce": 4.9e-05,
+        "Bot": 4.7e-05,
+        "WebAttack": 0.000105
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS slowloris",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999183,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000618,
+        "DoS": 0.999183,
+        "DDoS": 2.2e-05,
+        "PortScan": 3.4e-05,
+        "BruteForce": 2.3e-05,
+        "Bot": 2.1e-05,
+        "WebAttack": 9.9e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS slowloris",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.998319,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.001162,
+        "DoS": 0.998319,
+        "DDoS": 8.1e-05,
+        "PortScan": 0.000106,
+        "BruteForce": 8.5e-05,
+        "Bot": 7.9e-05,
+        "WebAttack": 0.000167
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS GoldenEye",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.99418,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005409,
+        "DoS": 0.99418,
+        "DDoS": 0.000106,
+        "PortScan": 0.000109,
+        "BruteForce": 6.3e-05,
+        "Bot": 6.1e-05,
+        "WebAttack": 7.1e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.99225,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006974,
+        "DoS": 0.99225,
+        "DDoS": 6.6e-05,
+        "PortScan": 0.000451,
+        "BruteForce": 7.9e-05,
+        "Bot": 6.4e-05,
+        "WebAttack": 0.000115
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS slowloris",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.994705,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005067,
+        "DoS": 0.994705,
+        "DDoS": 2.6e-05,
+        "PortScan": 4e-05,
+        "BruteForce": 2.7e-05,
+        "Bot": 2.5e-05,
+        "WebAttack": 0.000109
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999901,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 1.8e-05,
+        "DoS": 0.999901,
+        "DDoS": 1.9e-05,
+        "PortScan": 1.6e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999767,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 6.9e-05,
+        "DoS": 0.999767,
+        "DDoS": 3.9e-05,
+        "PortScan": 3.1e-05,
+        "BruteForce": 3.1e-05,
+        "Bot": 3.1e-05,
+        "WebAttack": 3.2e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999861,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 3.9e-05,
+        "DoS": 0.999861,
+        "DDoS": 2.4e-05,
+        "PortScan": 1.9e-05,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.9e-05,
+        "WebAttack": 2e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS GoldenEye",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.9928,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.004736,
+        "DoS": 0.9928,
+        "DDoS": 0.000291,
+        "PortScan": 0.000477,
+        "BruteForce": 0.000303,
+        "Bot": 0.000284,
+        "WebAttack": 0.001109
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999775,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000101,
+        "DoS": 0.999775,
+        "DDoS": 2e-05,
+        "PortScan": 2e-05,
+        "BruteForce": 2.2e-05,
+        "Bot": 2e-05,
+        "WebAttack": 4.2e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999862,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 3.3e-05,
+        "DoS": 0.999862,
+        "DDoS": 1.7e-05,
+        "PortScan": 1.7e-05,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.7e-05,
+        "WebAttack": 3.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS Hulk",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.999862,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 3.3e-05,
+        "DoS": 0.999862,
+        "DDoS": 1.7e-05,
+        "PortScan": 1.7e-05,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.7e-05,
+        "WebAttack": 3.6e-05
+      }
+    },
+    {
+      "expected": "DoS",
+      "original_label": "DoS slowloris",
+      "predicted": "DoS",
+      "correct": true,
+      "confidence": 0.869376,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.125959,
+        "DoS": 0.869376,
+        "DDoS": 0.000377,
+        "PortScan": 0.000528,
+        "BruteForce": 0.000392,
+        "Bot": 0.000414,
+        "WebAttack": 0.002953
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.99945,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000419,
+        "DoS": 7.2e-05,
+        "DDoS": 0.99945,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.5e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999808,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 7.9e-05,
+        "DDoS": 0.999808,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.99985,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 5.7e-05,
+        "DoS": 6e-05,
+        "DDoS": 0.99985,
+        "PortScan": 8e-06,
+        "BruteForce": 8e-06,
+        "Bot": 8e-06,
+        "WebAttack": 8e-06
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999787,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 9.9e-05,
+        "DoS": 6.9e-05,
+        "DDoS": 0.999787,
+        "PortScan": 1.2e-05,
+        "BruteForce": 1.1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1.1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999503,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000353,
+        "DoS": 8.5e-05,
+        "DDoS": 0.999503,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.5e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999843,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7.5e-05,
+        "DoS": 4e-05,
+        "DDoS": 0.999843,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999784,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 6.4e-05,
+        "DoS": 0.00011,
+        "DDoS": 0.999784,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999869,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 2.3e-05,
+        "DoS": 6.7e-05,
+        "DDoS": 0.999869,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999858,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 6.2e-05,
+        "DoS": 3.8e-05,
+        "DDoS": 0.999858,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999504,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000353,
+        "DoS": 8.4e-05,
+        "DDoS": 0.999504,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.5e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999875,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 2.5e-05,
+        "DoS": 5.8e-05,
+        "DDoS": 0.999875,
+        "PortScan": 1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999805,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 8.2e-05,
+        "DDoS": 0.999805,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999504,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000353,
+        "DoS": 8.4e-05,
+        "DDoS": 0.999504,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.5e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999812,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 6.7e-05,
+        "DoS": 7.8e-05,
+        "DDoS": 0.999812,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999806,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 8.1e-05,
+        "DDoS": 0.999806,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999806,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 8.1e-05,
+        "DDoS": 0.999806,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999808,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 7.9e-05,
+        "DDoS": 0.999808,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999809,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 7e-05,
+        "DoS": 7.8e-05,
+        "DDoS": 0.999809,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999725,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000149,
+        "DoS": 6.7e-05,
+        "DDoS": 0.999725,
+        "PortScan": 1.5e-05,
+        "BruteForce": 1.5e-05,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.5e-05
+      }
+    },
+    {
+      "expected": "DDoS",
+      "original_label": "DDoS",
+      "predicted": "DDoS",
+      "correct": true,
+      "confidence": 0.999786,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 6.5e-05,
+        "DoS": 0.000106,
+        "DDoS": 0.999786,
+        "PortScan": 1.1e-05,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.98711,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012295,
+        "DoS": 0.000284,
+        "DDoS": 8e-05,
+        "PortScan": 0.98711,
+        "BruteForce": 7.6e-05,
+        "Bot": 7.9e-05,
+        "WebAttack": 7.6e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.999469,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000445,
+        "DoS": 1.6e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 0.999469,
+        "BruteForce": 1e-05,
+        "Bot": 3.8e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.999504,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000439,
+        "DoS": 1.5e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 0.999504,
+        "BruteForce": 1e-05,
+        "Bot": 1.1e-05,
+        "WebAttack": 1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.99939,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000518,
+        "DoS": 1.8e-05,
+        "DDoS": 1.3e-05,
+        "PortScan": 0.99939,
+        "BruteForce": 1.2e-05,
+        "Bot": 3.7e-05,
+        "WebAttack": 1.2e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.976579,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.02287,
+        "DoS": 7.1e-05,
+        "DDoS": 3.2e-05,
+        "PortScan": 0.976579,
+        "BruteForce": 0.0004,
+        "Bot": 2e-05,
+        "WebAttack": 2.9e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993387,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006228,
+        "DoS": 7.8e-05,
+        "DDoS": 7.9e-05,
+        "PortScan": 0.993387,
+        "BruteForce": 7.5e-05,
+        "Bot": 7.8e-05,
+        "WebAttack": 7.4e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.999455,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000462,
+        "DoS": 1.6e-05,
+        "DDoS": 1.2e-05,
+        "PortScan": 0.999455,
+        "BruteForce": 1.1e-05,
+        "Bot": 3.4e-05,
+        "WebAttack": 1.1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993014,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006524,
+        "DoS": 9.2e-05,
+        "DDoS": 9.3e-05,
+        "PortScan": 0.993014,
+        "BruteForce": 8.8e-05,
+        "Bot": 0.000101,
+        "WebAttack": 8.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993714,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005793,
+        "DoS": 8.2e-05,
+        "DDoS": 8.2e-05,
+        "PortScan": 0.993714,
+        "BruteForce": 7.8e-05,
+        "Bot": 0.000173,
+        "WebAttack": 7.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.99249,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.007077,
+        "DoS": 8.5e-05,
+        "DDoS": 8.9e-05,
+        "PortScan": 0.99249,
+        "BruteForce": 8.5e-05,
+        "Bot": 8.9e-05,
+        "WebAttack": 8.5e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993104,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006495,
+        "DoS": 8.2e-05,
+        "DDoS": 8.2e-05,
+        "PortScan": 0.993104,
+        "BruteForce": 7.8e-05,
+        "Bot": 8.2e-05,
+        "WebAttack": 7.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.992811,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006775,
+        "DoS": 8.5e-05,
+        "DDoS": 8.6e-05,
+        "PortScan": 0.992811,
+        "BruteForce": 8.1e-05,
+        "Bot": 8.1e-05,
+        "WebAttack": 8.1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993469,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.006043,
+        "DoS": 8.5e-05,
+        "DDoS": 8.6e-05,
+        "PortScan": 0.993469,
+        "BruteForce": 8.1e-05,
+        "Bot": 0.000154,
+        "WebAttack": 8.1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993719,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005793,
+        "DoS": 8.2e-05,
+        "DDoS": 8.2e-05,
+        "PortScan": 0.993719,
+        "BruteForce": 7.8e-05,
+        "Bot": 0.000167,
+        "WebAttack": 7.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993688,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005894,
+        "DoS": 8.4e-05,
+        "DDoS": 8.4e-05,
+        "PortScan": 0.993688,
+        "BruteForce": 8e-05,
+        "Bot": 9.1e-05,
+        "WebAttack": 7.9e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.999455,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000462,
+        "DoS": 1.6e-05,
+        "DDoS": 1.2e-05,
+        "PortScan": 0.999455,
+        "BruteForce": 1.1e-05,
+        "Bot": 3.4e-05,
+        "WebAttack": 1.1e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.977608,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.021895,
+        "DoS": 6.8e-05,
+        "DDoS": 3e-05,
+        "PortScan": 0.977608,
+        "BruteForce": 0.000352,
+        "Bot": 1.9e-05,
+        "WebAttack": 2.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.993719,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.005793,
+        "DoS": 8.2e-05,
+        "DDoS": 8.2e-05,
+        "PortScan": 0.993719,
+        "BruteForce": 7.8e-05,
+        "Bot": 0.000167,
+        "WebAttack": 7.8e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.991202,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.008287,
+        "DoS": 0.000104,
+        "DDoS": 0.000105,
+        "PortScan": 0.991202,
+        "BruteForce": 9.9e-05,
+        "Bot": 0.000104,
+        "WebAttack": 9.9e-05
+      }
+    },
+    {
+      "expected": "PortScan",
+      "original_label": "PortScan",
+      "predicted": "PortScan",
+      "correct": true,
+      "confidence": 0.981417,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.017208,
+        "DoS": 0.000243,
+        "DDoS": 0.000244,
+        "PortScan": 0.981417,
+        "BruteForce": 0.000232,
+        "Bot": 0.000426,
+        "WebAttack": 0.000231
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99853,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.99853,
+        "Bot": 9e-06,
+        "WebAttack": 9.3e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "FTP-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99891,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000753,
+        "DoS": 0.000267,
+        "DDoS": 2.8e-05,
+        "PortScan": 1.2e-05,
+        "BruteForce": 0.99891,
+        "Bot": 1.2e-05,
+        "WebAttack": 1.8e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99841,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.001454,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.99841,
+        "Bot": 9e-06,
+        "WebAttack": 7e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "FTP-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99922,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000659,
+        "DoS": 6.3e-05,
+        "DDoS": 1.1e-05,
+        "PortScan": 2.1e-05,
+        "BruteForce": 0.99922,
+        "Bot": 1.3e-05,
+        "WebAttack": 1.3e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "FTP-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99891,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.000753,
+        "DoS": 0.000267,
+        "DDoS": 2.8e-05,
+        "PortScan": 1.2e-05,
+        "BruteForce": 0.99891,
+        "Bot": 1.2e-05,
+        "WebAttack": 1.8e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998021,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.001788,
+        "DoS": 5.3e-05,
+        "DDoS": 1.3e-05,
+        "PortScan": 1.3e-05,
+        "BruteForce": 0.998021,
+        "Bot": 1.2e-05,
+        "WebAttack": 9.9e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99586,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.003868,
+        "DoS": 8.2e-05,
+        "DDoS": 2e-05,
+        "PortScan": 2.1e-05,
+        "BruteForce": 0.99586,
+        "Bot": 1.9e-05,
+        "WebAttack": 0.00013
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "FTP-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.999087,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00077,
+        "DoS": 7.4e-05,
+        "DDoS": 1.3e-05,
+        "PortScan": 2.5e-05,
+        "BruteForce": 0.999087,
+        "Bot": 1.5e-05,
+        "WebAttack": 1.6e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998743,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.001097,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998743,
+        "Bot": 9e-06,
+        "WebAttack": 9.3e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99855,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.99855,
+        "Bot": 9e-06,
+        "WebAttack": 7.3e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.959247,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.03858,
+        "DoS": 0.000156,
+        "DDoS": 2.6e-05,
+        "PortScan": 3.8e-05,
+        "BruteForce": 0.959247,
+        "Bot": 2.5e-05,
+        "WebAttack": 0.001929
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.99853,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.99853,
+        "Bot": 9e-06,
+        "WebAttack": 9.3e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998569,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998569,
+        "Bot": 9e-06,
+        "WebAttack": 5.4e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998553,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998553,
+        "Bot": 9e-06,
+        "WebAttack": 7e-05
+      }
+    },
+    {
+      "expected": "BruteForce",
+      "original_label": "SSH-Patator",
+      "predicted": "BruteForce",
+      "correct": true,
+      "confidence": 0.998553,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.00131,
+        "DoS": 3.9e-05,
+        "DDoS": 9e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 0.998553,
+        "Bot": 9e-06,
+        "WebAttack": 7e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.983359,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.016604,
+        "DoS": 9e-06,
+        "DDoS": 7e-06,
+        "PortScan": 7e-06,
+        "BruteForce": 7e-06,
+        "Bot": 0.983359,
+        "WebAttack": 8e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.982998,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.016965,
+        "DoS": 9e-06,
+        "DDoS": 7e-06,
+        "PortScan": 7e-06,
+        "BruteForce": 7e-06,
+        "Bot": 0.982998,
+        "WebAttack": 7e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.425825,
+      "threshold_override": true,
+      "probabilities": {
+        "BENIGN": 0.572119,
+        "DoS": 0.000494,
+        "DDoS": 0.000376,
+        "PortScan": 0.000459,
+        "BruteForce": 0.000363,
+        "Bot": 0.425825,
+        "WebAttack": 0.000365
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.419953,
+      "threshold_override": true,
+      "probabilities": {
+        "BENIGN": 0.57797,
+        "DoS": 0.000499,
+        "DDoS": 0.000379,
+        "PortScan": 0.000464,
+        "BruteForce": 0.000366,
+        "Bot": 0.419953,
+        "WebAttack": 0.000369
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.81617,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.183619,
+        "DoS": 4.2e-05,
+        "DDoS": 4.7e-05,
+        "PortScan": 4e-05,
+        "BruteForce": 4e-05,
+        "Bot": 0.81617,
+        "WebAttack": 4.1e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.751637,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.248082,
+        "DoS": 5.6e-05,
+        "DDoS": 6.2e-05,
+        "PortScan": 5.3e-05,
+        "BruteForce": 5.3e-05,
+        "Bot": 0.751637,
+        "WebAttack": 5.7e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.981513,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.018444,
+        "DoS": 1e-05,
+        "DDoS": 8e-06,
+        "PortScan": 1e-05,
+        "BruteForce": 8e-06,
+        "Bot": 0.981513,
+        "WebAttack": 8e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.372511,
+      "threshold_override": true,
+      "probabilities": {
+        "BENIGN": 0.625243,
+        "DoS": 0.000539,
+        "DDoS": 0.00041,
+        "PortScan": 0.000502,
+        "BruteForce": 0.000396,
+        "Bot": 0.372511,
+        "WebAttack": 0.000399
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.984551,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.015412,
+        "DoS": 9e-06,
+        "DDoS": 7e-06,
+        "PortScan": 7e-06,
+        "BruteForce": 7e-06,
+        "Bot": 0.984551,
+        "WebAttack": 8e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.407571,
+      "threshold_override": true,
+      "probabilities": {
+        "BENIGN": 0.590308,
+        "DoS": 0.000509,
+        "DDoS": 0.000388,
+        "PortScan": 0.000474,
+        "BruteForce": 0.000374,
+        "Bot": 0.407571,
+        "WebAttack": 0.000377
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.398627,
+      "threshold_override": true,
+      "probabilities": {
+        "BENIGN": 0.59922,
+        "DoS": 0.000517,
+        "DDoS": 0.000393,
+        "PortScan": 0.000481,
+        "BruteForce": 0.00038,
+        "Bot": 0.398627,
+        "WebAttack": 0.000382
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.82714,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.172662,
+        "DoS": 4e-05,
+        "DDoS": 4.4e-05,
+        "PortScan": 3.8e-05,
+        "BruteForce": 3.8e-05,
+        "Bot": 0.82714,
+        "WebAttack": 3.8e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "BENIGN",
+      "correct": false,
+      "confidence": 0.961758,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.961758,
+        "DoS": 0.000144,
+        "DDoS": 0.00022,
+        "PortScan": 0.000138,
+        "BruteForce": 0.000137,
+        "Bot": 0.037463,
+        "WebAttack": 0.00014
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.984551,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.015412,
+        "DoS": 9e-06,
+        "DDoS": 7e-06,
+        "PortScan": 7e-06,
+        "BruteForce": 7e-06,
+        "Bot": 0.984551,
+        "WebAttack": 8e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.984094,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.015871,
+        "DoS": 9e-06,
+        "DDoS": 7e-06,
+        "PortScan": 6e-06,
+        "BruteForce": 6e-06,
+        "Bot": 0.984094,
+        "WebAttack": 7e-06
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.82714,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.172662,
+        "DoS": 4e-05,
+        "DDoS": 4.4e-05,
+        "PortScan": 3.8e-05,
+        "BruteForce": 3.8e-05,
+        "Bot": 0.82714,
+        "WebAttack": 3.8e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.82714,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.172662,
+        "DoS": 4e-05,
+        "DDoS": 4.4e-05,
+        "PortScan": 3.8e-05,
+        "BruteForce": 3.8e-05,
+        "Bot": 0.82714,
+        "WebAttack": 3.8e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.769837,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.229903,
+        "DoS": 5.1e-05,
+        "DDoS": 5.8e-05,
+        "PortScan": 4.9e-05,
+        "BruteForce": 4.9e-05,
+        "Bot": 0.769837,
+        "WebAttack": 5.3e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.827139,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.172662,
+        "DoS": 4e-05,
+        "DDoS": 4.5e-05,
+        "PortScan": 3.8e-05,
+        "BruteForce": 3.8e-05,
+        "Bot": 0.827139,
+        "WebAttack": 3.8e-05
+      }
+    },
+    {
+      "expected": "Bot",
+      "original_label": "Bot",
+      "predicted": "Bot",
+      "correct": true,
+      "confidence": 0.922957,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.077017,
+        "DoS": 7e-06,
+        "DDoS": 5e-06,
+        "PortScan": 5e-06,
+        "BruteForce": 6e-06,
+        "Bot": 0.922957,
+        "WebAttack": 5e-06
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985121,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.013626,
+        "DoS": 0.00051,
+        "DDoS": 1.7e-05,
+        "PortScan": 0.000692,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.6e-05,
+        "WebAttack": 0.985121
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986416,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012502,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000566,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986416
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.805034,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.193282,
+        "DoS": 0.001393,
+        "DDoS": 5.7e-05,
+        "PortScan": 0.000109,
+        "BruteForce": 7.1e-05,
+        "Bot": 5.4e-05,
+        "WebAttack": 0.805034
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985366,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.013629,
+        "DoS": 0.00051,
+        "DDoS": 1.7e-05,
+        "PortScan": 0.000442,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.6e-05,
+        "WebAttack": 0.985366
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985194,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.013627,
+        "DoS": 0.00051,
+        "DDoS": 1.7e-05,
+        "PortScan": 0.000617,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.6e-05,
+        "WebAttack": 0.985194
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.984305,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.013615,
+        "DoS": 0.00051,
+        "DDoS": 1.7e-05,
+        "PortScan": 0.00152,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.6e-05,
+        "WebAttack": 0.984305
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986665,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012505,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000314,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986665
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986574,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012504,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000406,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986574
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986416,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012502,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000566,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986416
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985195,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.013627,
+        "DoS": 0.00051,
+        "DDoS": 1.7e-05,
+        "PortScan": 0.000617,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.6e-05,
+        "WebAttack": 0.985195
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986309,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.0125,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000674,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986309
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.973595,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.026183,
+        "DoS": 0.000198,
+        "DDoS": 6e-06,
+        "PortScan": 6e-06,
+        "BruteForce": 6e-06,
+        "Bot": 5e-06,
+        "WebAttack": 0.973595
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986574,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012504,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000406,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986574
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986114,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012498,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000872,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986114
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.980381,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.018274,
+        "DoS": 0.000684,
+        "DDoS": 2.2e-05,
+        "PortScan": 0.000593,
+        "BruteForce": 2.4e-05,
+        "Bot": 2.1e-05,
+        "WebAttack": 0.980381
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985599,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012491,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.001394,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.985599
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986574,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012504,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000406,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986574
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986574,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012504,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000406,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986574
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - Brute Force",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.986665,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012505,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.000314,
+        "BruteForce": 1.9e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.986665
+      }
+    },
+    {
+      "expected": "WebAttack",
+      "original_label": "Web Attack - XSS",
+      "predicted": "WebAttack",
+      "correct": true,
+      "confidence": 0.985599,
+      "threshold_override": false,
+      "probabilities": {
+        "BENIGN": 0.012491,
+        "DoS": 0.000468,
+        "DDoS": 1.5e-05,
+        "PortScan": 0.001394,
+        "BruteForce": 1.8e-05,
+        "Bot": 1.4e-05,
+        "WebAttack": 0.985599
+      }
+    }
+  ],
+  "confusion_matrix": [
+    [
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      20,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      20,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      19,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      20
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "file": "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv",
+      "before": 225745,
+      "after": 225711,
+      "removed": 34
+    },
+    {
+      "file": "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv",
+      "before": 286467,
+      "after": 286096,
+      "removed": 371
+    },
+    {
+      "file": "Friday-WorkingHours-Morning.pcap_ISCX.csv",
+      "before": 191033,
+      "after": 190911,
+      "removed": 122
+    },
+    {
+      "file": "Monday-WorkingHours.pcap_ISCX.csv",
+      "before": 529918,
+      "after": 529481,
+      "removed": 437
+    },
+    {
+      "file": "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv",
+      "before": 288602,
+      "after": 288395,
+      "removed": 207
+    },
+    {
+      "file": "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv",
+      "before": 170366,
+      "after": 170231,
+      "removed": 135
+    },
+    {
+      "file": "Tuesday-WorkingHours.pcap_ISCX.csv",
+      "before": 445909,
+      "after": 445645,
+      "removed": 264
+    },
+    {
+      "file": "Wednesday-workingHours.pcap_ISCX.csv",
+      "before": 692703,
+      "after": 691406,
+      "removed": 1297
+    }
+  ],
+  "total_before": 2830743,
+  "total_after": 2827876,
+  "total_removed": 2867
+}

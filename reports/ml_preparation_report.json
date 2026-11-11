@@ -1,0 +1,42 @@
+{
+  "initial_rows": 2520798,
+  "final_rows": 2519404,
+  "excluded_rows": 1394,
+  "conflicting_groups": 697,
+  "initial_feature_count": 78,
+  "final_feature_count": 70,
+  "removed_constant_columns": [
+    "Bwd PSH Flags",
+    "Bwd URG Flags",
+    "Fwd Avg Bytes/Bulk",
+    "Fwd Avg Packets/Bulk",
+    "Fwd Avg Bulk Rate",
+    "Bwd Avg Bytes/Bulk",
+    "Bwd Avg Packets/Bulk",
+    "Bwd Avg Bulk Rate"
+  ],
+  "excluded_by_class": {
+    "BENIGN": 697,
+    "DDoS": 3,
+    "PortScan": 564,
+    "DoS slowloris": 1,
+    "DoS Hulk": 129
+  },
+  "remaining_by_class": {
+    "BENIGN": 2094360,
+    "DDoS": 128011,
+    "PortScan": 90130,
+    "Bot": 1948,
+    "Infiltration": 36,
+    "Web Attack - Brute Force": 1470,
+    "Web Attack - XSS": 652,
+    "Web Attack - Sql Injection": 21,
+    "FTP-Patator": 5931,
+    "SSH-Patator": 3219,
+    "DoS slowloris": 5384,
+    "DoS Hulk": 172717,
+    "DoS Slowhttptest": 5228,
+    "DoS GoldenEye": 10286,
+    "Heartbleed": 11
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "total_rows": 2827876,
+  "exact_duplicate_rows": 307078,
+  "unique_row_hashes": 2520798,
+  "duplicate_rate_percent": 10.859,
+  "missing_values": 0,
+  "infinite_values": 0,
+  "schema_errors": [],
+  "label_distribution": {
+    "BENIGN": 2271320,
+    "DDoS": 128025,
+    "PortScan": 158804,
+    "Bot": 1956,
+    "Infiltration": 36,
+    "Web Attack - Brute Force": 1507,
+    "Web Attack - XSS": 652,
+    "Web Attack - Sql Injection": 21,
+    "FTP-Patator": 7935,
+    "SSH-Patator": 5897,
+    "DoS slowloris": 5796,
+    "DoS Hulk": 230124,
+    "DoS Slowhttptest": 5499,
+    "DoS GoldenEye": 10293,
+    "Heartbleed": 11
+  },
+  "duplicate_labels": {
+    "BENIGN": 176263,
+    "DDoS": 11,
+    "PortScan": 68110,
+    "Bot": 8,
+    "Web Attack - Brute Force": 37,
+    "FTP-Patator": 2004,
+    "SSH-Patator": 2678,
+    "DoS slowloris": 411,
+    "DoS Slowhttptest": 271,
+    "DoS Hulk": 57278,
+    "DoS GoldenEye": 7
+  }
+}

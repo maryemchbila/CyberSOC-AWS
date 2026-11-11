@@ -1,0 +1,36 @@
+{
+  "total_before": 2827876,
+  "total_after": 2520798,
+  "total_removed": 307078,
+  "duplicate_rate_percent": 10.859,
+  "removed_by_class": {
+    "BENIGN": 176263,
+    "DDoS": 11,
+    "PortScan": 68110,
+    "Bot": 8,
+    "Web Attack - Brute Force": 37,
+    "FTP-Patator": 2004,
+    "SSH-Patator": 2678,
+    "DoS slowloris": 411,
+    "DoS Hulk": 57278,
+    "DoS Slowhttptest": 271,
+    "DoS GoldenEye": 7
+  },
+  "remaining_by_class": {
+    "BENIGN": 2095057,
+    "DDoS": 128014,
+    "PortScan": 90694,
+    "Bot": 1948,
+    "Infiltration": 36,
+    "Web Attack - Brute Force": 1470,
+    "Web Attack - XSS": 652,
+    "Web Attack - Sql Injection": 21,
+    "FTP-Patator": 5931,
+    "SSH-Patator": 3219,
+    "DoS slowloris": 5385,
+    "DoS Hulk": 172846,
+    "DoS Slowhttptest": 5228,
+    "DoS GoldenEye": 10286,
+    "Heartbleed": 11
+  }
+}

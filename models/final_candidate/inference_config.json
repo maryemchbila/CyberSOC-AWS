@@ -1,0 +1,14 @@
+{
+  "model_type": "XGBoost",
+  "model_version": "multiclass-full-v1",
+  "num_classes": 7,
+  "default_decision": "argmax",
+  "bot_class_id": 5,
+  "bot_threshold": 0.35,
+  "bot_threshold_enabled": true,
+  "threshold_tuned_on": "validation",
+  "excluded_labels": [
+    "Infiltration",
+    "Heartbleed"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "train": {
+    "rows": 105795,
+    "classes": {
+      "BENIGN": 87945,
+      "DoS": 8148,
+      "DDoS": 5364,
+      "PortScan": 3784,
+      "BruteForce": 382,
+      "Bot": 82,
+      "WebAttack": 90
+    },
+    "excluded_labels": {
+      "Infiltration": 17,
+      "Heartbleed": 8
+    }
+  },
+  "validation": {
+    "rows": 30223,
+    "classes": {
+      "BENIGN": 25149,
+      "DoS": 2297,
+      "DDoS": 1539,
+      "PortScan": 1075,
+      "BruteForce": 113,
+      "Bot": 25,
+      "WebAttack": 25
+    },
+    "excluded_labels": {
+      "Infiltration": 14
+    }
+  }
+}
